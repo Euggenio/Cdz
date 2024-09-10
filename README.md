@@ -1,3 +1,4 @@
+![CDZ01](https://github.com/user-attachments/assets/c129b7ae-4825-41ec-85c7-434477a7a259)
 ```markdown
 ## **README: Enciclopédia dos Cavaleiros de Ouro** ⚔️
 
