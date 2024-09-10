@@ -17,4 +17,4 @@ Essa é uma pequena enciclopédia online dedicada aos Cavaleiros de Ouro de Sain
 * **CSS:** A parte visual da página, as cores, fontes e layout.
 * **JavaScript:** A mágica por trás da pesquisa! É o JavaScript que procura pelos dados e exibe os resultados na tela.
 * **Bootstrap Icons:** Para deixar a página mais bonita com alguns ícones legais.
-![CDZ01](https://github.com/user-attachments/assets/f2c1a57f-9c5e-4230-a266-5752e396cc38)
+
